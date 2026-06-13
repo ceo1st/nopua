@@ -7,3 +7,6 @@ commit_msg.txt
 paper/
 paper2/
 promotion/
+__pycache__/
+*.pyc
+*.pyo
